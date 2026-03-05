@@ -26,7 +26,7 @@ The app uses the standard 5.0 CGPA scale:
 ## 🛠️ How to Run
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/yourusername/CGPA_Calculator_Kotlin.git](https://github.com/yourusername/CGPA_Calculator_Kotlin.git)
+    git clone [https://github.com/AhmadCM01/CGPA_Calculator_Kotlin.git](https://github.com/AhmadCM01/CGPA_Calculator_Kotlin.git)
     ```
 2.  **Open in IDE**: Open the project in **IntelliJ IDEA**.
 3.  **Configure JDK**: Ensure your Project SDK is set to **JDK 21** (Adoptium Temurin).
